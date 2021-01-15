@@ -1,0 +1,17 @@
+3e1dee1d880fc58f41f02f125d658144 *DESCRIPTION
+f144cda0e56226f3774184498fa71ac2 *NAMESPACE
+4ea6da0c2086ee66e432babfcbe77686 *R/Date2EpochMilli.R
+0d428de68f5401295dee34135be215d1 *R/EpochMilli2Date.R
+20b00508fa7eca88a40aa4cb794d2ad1 *R/thingsboard_api.R
+bdaadda9d278d24ed49aa10116bc5811 *README.md
+c358fb2324f5bf23d753e07f409e0483 *man/Date2EpochMilli.Rd
+0e032053220da265dbfb3912884fb85e *man/EpochMilli2Date.Rd
+fcbf7a9697ad55f98c4694b3f607704b *man/ThingsboardApi-class.Rd
+25abaedb97277014a982b5a95e88947d *man/ThingsboardApi_checkToken.Rd
+f74865dff64a59aef3c28a00f1035fa1 *man/ThingsboardApi_getKeys.Rd
+dc421fc669bdfce70ed5b665fafecb79 *man/ThingsboardApi_getTelemetry.Rd
+3ab427099abaeab5af9e69f3f26f44f8 *man/ThingsboardApi_getToken.Rd
+01875640c53e9f3d884459da6d26059b *man/ThingsboardApi_getValues.Rd
+8acb46443b06b1fdf3ccc4c69039f9c4 *man/figures/README-plot_telemetry-1.png
+21c660ac035aebb7cee66abba1ffe745 *tests/testthat.R
+67d64e4511d62c3ba4cc8f25c0d04d23 *tests/testthat/test-thingsboard_api.R
