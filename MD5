@@ -1,12 +1,12 @@
-3e1dee1d880fc58f41f02f125d658144 *DESCRIPTION
+87ae93a7bfa7c9814dae5d9843e5cb13 *DESCRIPTION
 f144cda0e56226f3774184498fa71ac2 *NAMESPACE
 4ea6da0c2086ee66e432babfcbe77686 *R/Date2EpochMilli.R
 0d428de68f5401295dee34135be215d1 *R/EpochMilli2Date.R
-20b00508fa7eca88a40aa4cb794d2ad1 *R/thingsboard_api.R
-bdaadda9d278d24ed49aa10116bc5811 *README.md
+b9c2bd6f8d4674312b9d08c09ec2e826 *R/thingsboard_api.R
+848086d4c19992d39a90081b1246ad91 *README.md
 c358fb2324f5bf23d753e07f409e0483 *man/Date2EpochMilli.Rd
 0e032053220da265dbfb3912884fb85e *man/EpochMilli2Date.Rd
-fcbf7a9697ad55f98c4694b3f607704b *man/ThingsboardApi-class.Rd
+86ee966efc8b386402e41f454f5cb44b *man/ThingsboardApi-class.Rd
 25abaedb97277014a982b5a95e88947d *man/ThingsboardApi_checkToken.Rd
 f74865dff64a59aef3c28a00f1035fa1 *man/ThingsboardApi_getKeys.Rd
 dc421fc669bdfce70ed5b665fafecb79 *man/ThingsboardApi_getTelemetry.Rd
